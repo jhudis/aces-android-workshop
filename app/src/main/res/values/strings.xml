@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="guess_a_number">Guess a number between 1 and 100:</string>
+    <string name="higher">Higher!</string>
+    <string name="lower">Lower!</string>
+    <string name="correct">Correct!</string>
+    <string name="make_guess">Make Guess</string>
+    <string name="it_took_guesses">It took you %d guesses!</string>
+</resources>
